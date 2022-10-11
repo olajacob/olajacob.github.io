@@ -1,0 +1,8 @@
+.container {
+  max-width: 960px;
+}
+
+.logo {
+  font-size:5rem;
+  margin: 20px;
+}
